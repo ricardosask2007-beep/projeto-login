@@ -80,17 +80,17 @@ div.campo > label {
 
 div.campo > span {
     color: white;
-    font-size: 2em;
-    width: 40px;
+    font-size: 1.8em;
+    width: 35px;
     padding: 5px;
 }
 
 div.campo > input {
     background-color: #68e6e1;
     font-size: 1em;
-    width:calc(100% - 44px);
+    width:calc(100% - 41px);
     height: 100%;
-    transform: translateY(-12px);
+    transform: translateY(-9px);
     border: 0px;
     border-radius: 8px;
     padding: 4px;
